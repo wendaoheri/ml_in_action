@@ -1,3 +1,5 @@
 .DS_Store
 ml.iml
 /.idea
+ml_in_action.iml
+*.pyc
